@@ -1,6 +1,6 @@
 # SHIT CODEs WITH PYTHON
 
-### this repository has some of shit codes written by me for random/useless/shitty tasks
+This repository has some of shit codes written by me for random/useless/shitty tasks
 
 ## Repository Contains
  - BINARY SEARCH 
