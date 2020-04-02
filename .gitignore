@@ -1,4 +1,4 @@
 #environment
 /env
 #vs files
-./vscode
+./vscode/settings.json
