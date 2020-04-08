@@ -2,3 +2,5 @@
 /env
 #vs files
 ./vscode/settings.json
+#jupyter notebooks
+*.ipynb
